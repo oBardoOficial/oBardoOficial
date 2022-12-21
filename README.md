@@ -11,5 +11,6 @@ Entre os projetos já desenvolvidos, estão:
 - Configuração de arquivos para e-books/e-pubs;
 - Alteração de projeto gráfico por código;
 - GREPs e recursos de automação por lista;
+- Formatação condicional de texto;
 - Criação e configuração de amostras de cores (validação e impressão com Pantone CMYK);
 - Entre outros.
