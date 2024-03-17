@@ -14,3 +14,8 @@ Entre os projetos já desenvolvidos, estão:
 - Formatação condicional de texto;
 - Criação e configuração de amostras de cores (validação e impressão com Pantone CMYK);
 - Entre outros.
+
+
+
+https://github.com/oBardoOficial/oBardoOficial/assets/121063872/2dd1573c-447e-42f0-b861-10d3cd57f5ad
+
