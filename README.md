@@ -16,4 +16,4 @@ Entre os projetos já desenvolvidos, estão:
 - Entre outros.
 
 
-https://youtu.be/EhlLGj0UK-E
+product_video: 'https://youtu.be/EhlLGj0UK-E'
