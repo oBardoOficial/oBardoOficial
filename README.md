@@ -16,6 +16,6 @@ Entre os projetos já desenvolvidos, estão:
 - Entre outros.
 
 
-
+https://youtu.be/EhlLGj0UK-E 
 https://github.com/oBardoOficial/oBardoOficial/assets/121063872/2dd1573c-447e-42f0-b861-10d3cd57f5ad
 
