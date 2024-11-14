@@ -15,4 +15,7 @@ Entre os projetos já desenvolvidos, estão:
 - Criação e configuração de amostras de cores (validação e impressão com Pantone CMYK);
 - Entre outros.
 
+https://www.youtube.com/watch?v=EhlLGj0UK-E&ab_channel=BardoRevis%C3%A3o
+[![Alt text](https://www.youtube.com/watch?v=EhlLGj0UK-E&ab_channel=BardoRevis%C3%A3o)](https://www.youtube.com/watch?v=EhlLGj0UK-E&ab_channel=BardoRevis%C3%A3o)
+
 https://github.com/user-attachments/assets/dc3d0de9-86dc-4ce1-b1a8-35ba56fbf84d
