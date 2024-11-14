@@ -15,9 +15,4 @@ Entre os projetos já desenvolvidos, estão:
 - Criação e configuração de amostras de cores (validação e impressão com Pantone CMYK);
 - Entre outros.
 
-
-https://youtu.be/EhlLGj0UK-E
-
-
-https://github.com/user-attachments/assets/8192f19c-7dcf-4b02-a3a5-a5b314144bb0
-
+https://github.com/user-attachments/assets/dc3d0de9-86dc-4ce1-b1a8-35ba56fbf84d
